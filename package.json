@@ -1,0 +1,9 @@
+{
+  "name": "codeceptjs-browserstack-plugin",
+  "version": "0.0.1",
+  "description": "Plugin to rule BrowserStack connection for CodeceptJS",
+  "main": ".src/index.js",
+  "repository": "https://github.com/LukoyanovE/codeceptjs-browserstack-plugin.git",
+  "author": "Evgeny Lukoyanov <lukoyanov94@mail.ru>",
+  "license": "MIT"
+}
